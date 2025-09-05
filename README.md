@@ -1,8 +1,8 @@
-My Meds 💊
+# My Meds 💊
 
 My Meds is a simple Flutter–Firebase based mobile application designed to make medicine ordering easy and convenient for customers.
 
-🚀 Features
+## 🚀 Features
 
 User Authentication: Sign up and log in securely with Firebase Authentication.
 
@@ -14,11 +14,9 @@ Place Orders: Confirm checkout and place medicine orders directly from the app.
 
 Order History: View your past orders, their details, and current status (e.g., pending, delivered).
 
-Dark/Light Theme: App adapts to your preferred theme.
-
 ----------------------------------
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: Flutter (Dart)
 
@@ -28,7 +26,7 @@ State Management: Flutter’s built-in widgets & Streams
 
 ----------------------------------
 
-📖 How It Works
+## 📖 How It Works
 
 A new user registers or logs in.
 
@@ -40,7 +38,7 @@ Users can track and view their order history in the My Orders section.
 
 ----------------------------------
 
-🎯 Future Scope
+## 🎯 Future Scope
 
 Add prescription upload support.
 
