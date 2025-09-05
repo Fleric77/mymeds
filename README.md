@@ -1,16 +1,50 @@
-# my_meds
+My Meds 💊
 
-A new Flutter project.
+My Meds is a simple Flutter–Firebase based mobile application designed to make medicine ordering easy and convenient for customers.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+User Authentication: Sign up and log in securely with Firebase Authentication.
 
-A few resources to get you started if this is your first Flutter project:
+Browse Products: View available medicines with details like name, description, and price.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Cart System: Add medicines to the cart, update quantities, or remove items.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Place Orders: Confirm checkout and place medicine orders directly from the app.
+
+Order History: View your past orders, their details, and current status (e.g., pending, delivered).
+
+Dark/Light Theme: App adapts to your preferred theme.
+
+----------------------------------
+
+🛠️ Tech Stack
+
+Frontend: Flutter (Dart)
+
+Backend: Firebase Authentication & Cloud Firestore
+
+State Management: Flutter’s built-in widgets & Streams
+
+----------------------------------
+
+📖 How It Works
+
+A new user registers or logs in.
+
+The user browses available medicines and adds them to the cart.
+
+On checkout, the order is placed and saved in Firestore.
+
+Users can track and view their order history in the My Orders section.
+
+----------------------------------
+
+🎯 Future Scope
+
+Add prescription upload support.
+
+Add role-based features for pharmacists/admins.
+
+Enable payment gateway integration.
+
